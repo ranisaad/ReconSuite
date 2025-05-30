@@ -1,3 +1,5 @@
+![ReconSuite Banner](https://raw.githubusercontent.com/ranisaad/ReconSuite/main/ReconSuite_Banner_1280x640.png)
+
 # ReconSuite
 
 A Bash script that automates subdomain enumeration, liveness checking, screenshot capturing, and port scanning. Useful for penetration testers and bug bounty hunters to quickly gather recon data on a target domain.
