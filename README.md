@@ -23,11 +23,11 @@ Make sure these tools are installed and available in your `$PATH`:
 - [gowitness](https://github.com/sensepost/gowitness)
 - [nmap](https://nmap.org/)
 
+```markdown
 ## 🔧 Usage
 ```bash
-chmod +x recon.sh
-./recon.sh example.com
-```
+chmod +x reconsuite.sh
+./reconsuite.sh example.com
 
 ## 📁 Output Structure
 ```
